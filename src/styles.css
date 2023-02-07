@@ -1,0 +1,50 @@
+h1 {
+  color: #113f67;
+  font-size: 55px;
+  font-weight: 900px;
+  text-align: center;
+  margin: 50px 0;
+}
+form {
+  text-align: center;
+  margin: 30px;
+}
+input {
+  border-radius: 50px;
+  padding: 5px 90px;
+  border: 1.5px solid gainsboro;
+}
+.button {
+  background: #408ab4;
+  border-radius: 20px;
+  border: 1px solid #408ab4;
+  padding: 5px 10px;
+}
+.button:hover {
+  background: #34699a;
+  cursor: pointer;
+}
+::placeholder {
+  font-size: 12px;
+  text-align: center;
+}
+.city {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0 0 0 250px;
+}
+.details {
+  font-size: 18px;
+  margin: 0 250 0 0px;
+}
+.next {
+  text-align: center;
+  font-size: 18px;
+}
+.next5days {
+  width: 90%;
+  padding: 0 0 0 90px;
+}
+.icon {
+  font-size: 36px;
+}
